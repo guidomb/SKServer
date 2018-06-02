@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SKCore",
+        "repositoryURL": "https://github.com/SlackKit/SKCore",
+        "state": {
+          "branch": null,
+          "revision": "1ac0e21612d4390206adeb57eb5f8fcae66c0811",
+          "version": "4.1.1"
+        }
+      },
+      {
+        "package": "SKWebAPI",
+        "repositoryURL": "https://github.com/SlackKit/SKWebAPI",
+        "state": {
+          "branch": null,
+          "revision": "b5b303c7e5cdecd587499061a81128ef4d7ed3f1",
+          "version": "4.1.3"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/guidomb/swifter.git",
+        "state": {
+          "branch": "linux",
+          "revision": "cc406a4c03d808fd0ee9873e0cef36f894cfadb9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
